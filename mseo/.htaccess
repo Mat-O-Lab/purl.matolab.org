@@ -1,4 +1,4 @@
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^mseo_mid$ https://raw.githubusercontent.com/Mat-O-Lab/MSEO/main/MSEO_mid.ttl [R=302,L]
+RewriteRule ^mid$ https://raw.githubusercontent.com/Mat-O-Lab/MSEO/main/MSEO_mid.owl
