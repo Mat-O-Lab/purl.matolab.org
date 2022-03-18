@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^mid$ http://rest.matportal.org/ontologies/BWMD-MID/submissions/1/download?apikey=66c82e77-ce0d-4385-8056-a95898e47ebb
